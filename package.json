@@ -6,10 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/swashcap/storybook-info-docgen-bug.git"
-  },
+  "repository": "git+https://github.com/swashcap/storybook-info-docgen-bug.git",
   "keywords": [],
   "author": "Cory Reed <swashcap@gmail.com>",
   "license": "Apache License 2.0",
@@ -17,5 +14,9 @@
     "url": "https://github.com/swashcap/storybook-info-docgen-bug/issues"
   },
   "homepage": "https://github.com/swashcap/storybook-info-docgen-bug#readme",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "react": "^15",
+    "react-dom": "^15"
+  }
 }
