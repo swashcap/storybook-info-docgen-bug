@@ -1,0 +1,21 @@
+{
+  "name": "storybook-info-docgen-bug",
+  "version": "1.0.0",
+  "description": "Sample project to reproduce a @storybook/react docgen bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swashcap/storybook-info-docgen-bug.git"
+  },
+  "keywords": [],
+  "author": "Cory Reed <swashcap@gmail.com>",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/swashcap/storybook-info-docgen-bug/issues"
+  },
+  "homepage": "https://github.com/swashcap/storybook-info-docgen-bug#readme",
+  "private": true
+}
