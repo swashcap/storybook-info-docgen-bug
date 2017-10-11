@@ -18,12 +18,15 @@
   "homepage": "https://github.com/swashcap/storybook-info-docgen-bug#readme",
   "private": true,
   "dependencies": {
+    "lodash": "^4.17.4",
+    "prop-types": "^15.6.0",
     "react": "^15",
     "react-dom": "^15"
   },
   "devDependencies": {
-    "@storybook/react": "^3.2.12",
     "@storybook/addon-actions": "^3.2.12",
-    "@storybook/addon-links": "^3.2.12"
+    "@storybook/addon-info": "^3.2.12",
+    "@storybook/addon-links": "^3.2.12",
+    "@storybook/react": "^3.2.12"
   }
 }
